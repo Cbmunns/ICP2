@@ -1,4 +1,6 @@
-Lab 1: https://github.com/Cbmunns/ICP2/wiki/Lab-1
+Chris Munns
+
+1: https://github.com/Cbmunns/ICP2/wiki/Lab-1
 
 Lab 2: https://github.com/Cbmunns/ICP2/wiki/Lab-2
 
